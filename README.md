@@ -1,16 +1,16 @@
-# cx_final_project
+# 🏞️ Nile - E-commerce Mobile App
 
-A new Flutter project.
+A modern e-commerce mobile application built with **Flutter** and **Firebase**.  
+Nile provides a seamless shopping experience with features focused on user convenience and engagement.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+- 🔐 **User Authentication** (Email & Google Sign-in)  
+- 🛍️ **Product Categories & Filtering**  
+- 🛒 **Shopping Cart Management**  
+- ❤️ **Favorites/Wishlist**  
+- 👤 **User Profile Management**  
+- 🌙 **Dark/Light Theme Support**  
+- 🖼️ **Product Image Carousel**   
+- 🎨 **Stylish UI with Material Design**  
